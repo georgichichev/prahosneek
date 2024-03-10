@@ -12,7 +12,7 @@ export default function Page() {
           Do not prahosvay your money
         </p>
         <Button asChild size="lg" className="mt-6">
-          <Link href="/login">Login</Link>
+          <Link href="/dashboard">Login</Link>
         </Button>
       </div>
     </main>
